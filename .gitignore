@@ -1,0 +1,3 @@
+#Ignore the files that git should leave for commiting into repository here
+
+.txt
