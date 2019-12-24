@@ -1,0 +1,9 @@
+This is a file for branch testing using below commands
+git branch
+git branch newbranchname
+git checkout newbranchname/oldbranchname
+git checkout commitid
+git log
+git merge newbranchname --> This command has to run from the master branch.
+
+For ex: If you need to merge branch B with A branch then git merge B has to run after checkout to A branch.
